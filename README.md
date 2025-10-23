@@ -3,7 +3,7 @@
 
 <!-- صورة بانر عريضة تغطي عرض الصفحة -->
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" 
+  <img src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://hellofuture.orange.com/en/interactive/cybersecurity-building-a-secure-digital-society/)" 
        alt="Cyber Security Banner" 
        style="width:100%; max-width:1000px; border-radius:10px;">
 </p>
