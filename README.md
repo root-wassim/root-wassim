@@ -3,7 +3,7 @@
 
 <!-- Large Banner -->
 <p align="center">
-  <img src="https://share.google/images/x5P2w19FsQHeXUs8M" 
+  <img src="[https://share.google/images/x5P2w19FsQHeXUs8M](https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif)" 
        alt="Cyber Security Banner" 
        style="width:100%; max-width:100%; border-radius:10px;">
 </p>
