@@ -3,14 +3,14 @@
 
 <!-- Large Banner -->
 <p align="center">
-  <img src="[https://share.google/images/x5P2w19FsQHeXUs8M](https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif)" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU2dTBsOGZoenJ3em92eW5zeDFwM3MxMjY3Y2EwdjNseGJjbndpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" 
        alt="Cyber Security Banner" 
        style="width:100%; max-width:100%; border-radius:10px;">
 </p>
 
 <!-- Small Animated Image -->
 <p align="center">
-  <img src="https://share.google/images/GAwuTVGYX3LD9lga1" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd2amI4N28yeGVtcTExNXljNXRra3I5a3ZlN2lseW9vZHM2NGx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
        alt="Cyber Security Animation" 
        width="400" 
        style="border-radius:10px;">
@@ -29,9 +29,7 @@
 ---
 
 - 🔭 I’m studying at **USTHB**
-
 - 👯 I’m looking to collaborate **on Big Project**
-
 - 📫 How to reach me **faycal.wassim.daoudi@gmail.com**
 
 ---
@@ -78,4 +76,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassim2005x" alt="wassim2005x" />
 </p>
-
