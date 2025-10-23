@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
 <h3 align="center">A Cyber Security Engineering Student</h3>
 
+<!-- صورة بانر عريضة تغطي عرض الصفحة -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/32b0064f4de95433b6ce9b0886fb0bb9/tumblr_pl3415yPCd1w5tjdn_540.gif" alt="Cyber Security Banner" style="width:100%; max-width:100%; height:auto;">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" 
+       alt="Cyber Security Banner" 
+       style="width:100%; max-width:1000px; border-radius:10px;">
 </p>
 
->
+<!-- صورة جانبية + معلومات -->
 <p>
-  <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1f9071e-2c80-4095-a15f-2d940ae77794/dhkwj7a-63bee06b-da26-4539-8edb-cef59d02783d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kMWY5MDcxZS0yYzgwLTQwOTUtYTE1Zi0yZDk0MGFlNzc3OTQvZGhrd2o3YS02M2JlZTA2Yi1kYTI2LTQ1MzktOGVkYi1jZWY1OWQwMjc4M2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4oKmWv4GuvjgU-jYNhYDI2lFI__VINreP1unEx04Lio" alt="Coding Animation" width="400" style="border-radius: 15px; margin-left: 20px;">
-  
-  - 🔭 I’m studying at **USTHB**  
-  - 👯 I’m looking to collaborate **on Big Project**  
-  - 📫 How to reach me **faycal.wassim.daoudi@gmail.com**
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Coding Animation" width="400" 
+       style="border-radius:15px; margin-left:20px;">
+
+  🔭 I’m studying at **USTHB**  
+  👯 I’m looking to collaborate **on Big Projects**  
+  📫 How to reach me **faycal.wassim.daoudi@gmail.com**  
 </p>
 
 ---
@@ -22,7 +27,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wassim2005x" alt="wassim2005x" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wassim2005x&theme=onedark" alt="wassim2005x" />
   </a>
 </p>
 
@@ -30,19 +35,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/faycal-wassim-daoudi-root" target="blank">
+  <a href="https://www.linkedin.com/in/faycal-wassim-daoudi-root" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/29972067/root-wassim" target="blank">
+  <a href="https://stackoverflow.com/users/29972067/root-wassim" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/wassim.mustang" target="blank">
+  <a href="https://instagram.com/wassim.mustang" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/root-wassim" target="blank">
+  <a href="https://www.leetcode.com/root-wassim" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/S6Wvrcs8" target="blank">
+  <a href="https://discord.gg/S6Wvrcs8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
@@ -68,11 +73,14 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassim2005x&show_icons=true&locale=en&layout=compact" alt="wassim2005x" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wassim2005x&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wassim2005x&show_icons=true&locale=en" alt="wassim2005x" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim2005x&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wassim2005x&" alt="wassim2005x" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassim2005x&theme=tokyonight" alt="GitHub Streak" />
+</p>
