@@ -28,17 +28,23 @@
 
 ---
 
-- 🔭 I’m studying at **USTHB**
-- 👯 I’m looking to collaborate **on Big Project**
+<table>
+<tr>
+<td>
+
+- 🔭 I’m studying at **USTHB**  
+- 👯 I’m looking to collaborate **on Big Project**  
 - 📫 How to reach me **faycal.wassim.daoudi@gmail.com**
 
-<!-- Right Side New GIF -->
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViaHRpY3Jsc2psMHAybDk5d3NxOWRxbWM3YjN3MzY3ZGwzMDFneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" 
-       alt="Cyber Security Right GIF" 
-       width="300" 
-       style="border-radius:10px;">
-</p>
+</td>
+<td>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViaHRpY3Jsc2psMHAybDk5d3NxOWRxbWM3YjN3MzY3ZGwzMDFneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"
+     width="280" style="border-radius:10px;">
+
+</td>
+</tr>
+</table>
 
 ---
 
