@@ -1,92 +1,29 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
 <h3 align="center">A Cyber Security Engineering Student</h3>
 
-<!-- Large Banner -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU2dTBsOGZoenJ3em92eW5zeDFwM3MxMjY3Y2EwdjNseGJjbndpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" 
-       alt="Cyber Security Banner" 
-       style="width:100%; max-width:100%; border-radius:10px;">
-</p>
-
-<!-- Small Animated Image -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd2amI4N28yeGVtcTExNXljNXRra3I5a3ZlN2lseW9vZHM2NGx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
-       alt="Cyber Security Animation" 
-       width="400" 
-       style="border-radius:10px;">
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wassim2005x&label=Profile%20views&color=0e75b6&style=flat" alt="wassim2005x" />
-</p>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wassim2005x&theme=algolia&margin-w=10" alt="wassim2005x" />
-</p>
-
----
-
 <table>
 <tr>
 <td>
 
-- 🔭 I’m studying at **USTHB**  
-- 👯 I’m looking to collaborate **on Big Project**  
-- 📫 How to reach me **faycal.wassim.daoudi@gmail.com**
+<!-- Left GIF stays the same -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/6a7558b9821e1aef7654374c1c1ff717a7a4e4a0f8d0aa66d975eda67c6b0351/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786232576c6269356c636e42315a584a735a4778756333567a6447466e6558566e644755774e6a6b34595746745a79387a4d44637a4d5745304e6a4d785a5445774f444d334d4449314d6a56795a445a684c544d784c7a41784e544d784e6a6b744d5752684f4464684f544d344e7a426b4d5759334d4451794e6a426d5954457a4e5445335a6a4a6a4d6a45354d7a4930594451304c544d314c7a41784e7a46684e7a516d4f4451784e7a41784f5749754d5441354d6a4a6a4d6a4d335a6a426a4d7a41304c32557759546c6b59545175595746745a79387a4d44637a4d5745304e6a49784f4463794e4330784d446b784e6a517a4f544d344e6a4d344f4451794e6a593061555a32595852735a58527062334a7063484e76626e52705956566c5a6a4a6a4d6a41794f5330354f5451754f4745314e6a63354d5755785a4455784d6a417a597a6b75593352795a58524459576c30595849785a53303059584e76615735765a7938646558566e644756795a573530595751755a57353059573d" width="350"/>
+</p>
+
+<!-- Bullet List -->
+<ul>
+<li>🎓 I'm studying at USTHB</li>
+<li>🧠 I'm looking to collaborate on <strong>Big Project</strong></li>
+<li>📬 How to reach me <a href="mailto:aycal.wassim.daoudi@gmail.com">aycal.wassim.daoudi@gmail.com</a></li>
+</ul>
 
 </td>
-<td>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViaHRpY3Jsc2psMHAybDk5d3NxOWRxbWM3YjN3MzY3ZGwzMDFneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"
-     width="280" style="border-radius:10px;">
+<td align="right">
+
+<!-- New GIF here -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViaHRpY3Jsc2psMHAybLk5d3NxOWRxbWM3YjN3MzY3ZGwzMDFneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="250"/>
 
 </td>
 </tr>
 </table>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/faycal-wassim-daoudi-root" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faycal wassim daoudi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29972067/root-wassim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="root-wassim" height="30" width="40" /></a>
-<a href="https://instagram.com/wassim.mustang" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassim.mustang" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/root-wassim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wassim2005x" height="30" width="40" /></a>
-<a href="https://discord.gg/S6Wvrcs8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S6Wvrcs8" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wassim2005x&show_icons=true&locale=en&layout=compact" alt="wassim2005x" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wassim2005x&show_icons=true&locale=en" alt="wassim2005x" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassim2005x" alt="wassim2005x" />
-</p>
